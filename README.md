@@ -3,6 +3,8 @@
 
 ![badge](https://img.shields.io/github/languages/top/willyoliv/teste-tecnico-01)
 
+---
+
 Tabela de conteúdos
 =================
 <!--ts-->
@@ -14,6 +16,7 @@ Tabela de conteúdos
    * [Autor](#-Autor)
 <!--te-->
 
+---
 
 ## 💻 Sobre o Projeto
 
